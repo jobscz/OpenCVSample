@@ -43,6 +43,8 @@ public class MainActivity extends AppCompatActivity {
 
     /***
      * 亮度
+     * alpha 大小决定对比度 大于0
+     * beta  决定亮度
      * 使用opencv实现
      */
     private void light() {
